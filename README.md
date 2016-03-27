@@ -1,2 +1,2 @@
 # PsyWaY
-awesome topics and nerd revers use
+awesome topics and nerd reversE use
